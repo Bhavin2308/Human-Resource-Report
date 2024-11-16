@@ -6,35 +6,43 @@ Report: General
 
 A Report on the other hand is any informational work. This information can be at any format. Table, Chart, text, number or anything else.
 
-Name
-Gender Male|Female
-Age 20|65
-Adress
-City
-Phone
-Email
-Ethnicity  Ethnic A|Ethnic B|Echnic C
-Emp. Type Full Time|Part Time|Contractor
-Department
-State California|Florida|Arizona|Colorado|New York
-Join Date 2010|2019
-Status Active|Non Active
-Sick Days 0|12
-Leave Balance 0|40
-Salary  65000|150000
-Business Unit  IT|Facilities|Finance|HR|Legal|Operations|Sales|Marketing
-Emp. Rating  1|2|3|4
-Job Classification Blue Collar|White Collar|Other
-Education Primary|Secondary|Tertiary|Unknown
+**Name**
+**Gender** Male|Female
+**Age** 20|65
+**Adress**
+**City**
+**Phone**
+**Email**
+**Ethnicity**  Ethnic A|Ethnic B|Echnic C
+**Emp. Type** Full Time|Part Time|Contractor
+**Department**
+**State** California|Florida|Arizona|Colorado|New York
+**Join Date** 2010|2019
+**Status** Active|Non Active
+**Sick Days** 0|12
+**Leave Balance** 0|40
+**Salary**  65000|150000
+**Business Unit**  IT|Facilities|Finance|HR|Legal|Operations|Sales|Marketing
+**Emp. Rating**  1|2|3|4
+**Job Classification** Blue Collar|White Collar|Other
+**Education** Primary|Secondary|Tertiary|Unknown
 
 Read HR Data
+
 Create date tabla 2013 - 2018
+
 Create LastRefreshDate
+
 Do All Totals
+
 Page Filter "Emp.Type" = Active
+
 Create Age Group
+
 put date chiclet slicer
+
 put all donut charts
+
 put cards
 
 
